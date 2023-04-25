@@ -76,6 +76,10 @@ a {
   color: inherit;
 }
 
+a:hover {
+  color: coral;
+}
+
 p {
   writing-mode: vertical-lr;
   text-align: center;
